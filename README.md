@@ -6,7 +6,7 @@ UC Berkeley admits over 14,000 students with many of them having almost no knowl
 
 By providing up-to-date and detailed information about places to study on and off campus (such as hours, food options, and more), the application eases the process of finding study locations. No longer will you have no idea where to go if your favorite library is full!
 #
-The home page of my app is divided into two vertical halves. The top half has an interactive map that pins placed on the locations of nearby libraries.
+The home page of my app is divided into two vertical halves. The top half has an interactive map (using Maps API) that pins placed on the locations of nearby libraries.
 
 <img width="252" alt="Screen Shot 2024-02-07 at 10 34 41 AM" src="https://github.com/ariam05/bear-territory/assets/124225316/fad86472-1bd0-496c-a888-40999aba9dbc">
 
